@@ -2,6 +2,8 @@
 
 ## Сертификационное задание для Школы Девопс
 
+[https://devops-school.ru/devops_engineer.html](https://devops-school.ru/devops_engineer.html)
+
 Jenkins паплайн который создает и развертывает веб-приложение на ресурсах AWS EC2. Первый экземпляр создает его, второй запускает веб-приложение на Python.
 
 ## Описание стадий пайплайна Jenkins
